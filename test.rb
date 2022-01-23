@@ -8,4 +8,7 @@ def fib(n)
   end
   
   print fib(20)
+
+
+  print "LLLLLLLLLLLLLLLLLLLLLL"
   
